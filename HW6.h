@@ -1,3 +1,16 @@
+/*
+ * Filename             HW6.h
+ * Date                 04/26/2020
+ * Author               Nicholas Rhein
+ * Email                ncr170130@utdallas.edu
+ * Course               CS3377.502
+ * Version              1.0
+ * Copyright		    2020, All Rights Reserved
+ *
+ * Description
+ * Header file for Homework 6
+ */
+
 #ifndef HW6_H
 #define HW6_H
 #include <iostream>
